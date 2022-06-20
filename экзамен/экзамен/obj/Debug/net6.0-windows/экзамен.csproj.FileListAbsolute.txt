@@ -1,0 +1,17 @@
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.Form1.resources
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.AssemblyInfo.cs
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\экзамен\экзамен\bin\Debug\net6.0-windows\экзамен.exe
+C:\Users\Саша\source\repos\экзамен\экзамен\bin\Debug\net6.0-windows\экзамен.deps.json
+C:\Users\Саша\source\repos\экзамен\экзамен\bin\Debug\net6.0-windows\экзамен.runtimeconfig.json
+C:\Users\Саша\source\repos\экзамен\экзамен\bin\Debug\net6.0-windows\экзамен.dll
+C:\Users\Саша\source\repos\экзамен\экзамен\bin\Debug\net6.0-windows\экзамен.pdb
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.dll
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\refint\экзамен.dll
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.pdb
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\экзамен.genruntimeconfig.cache
+C:\Users\Саша\source\repos\экзамен\экзамен\obj\Debug\net6.0-windows\ref\экзамен.dll
