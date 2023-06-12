@@ -1,0 +1,6 @@
+C:\Users\MRC\Desktop\Rinat\C#\ComplexTr\ComplexTr\bin\Debug\ComplexTr.dll
+C:\Users\MRC\Desktop\Rinat\C#\ComplexTr\ComplexTr\bin\Debug\ComplexTr.pdb
+C:\Users\MRC\Desktop\Rinat\C#\ComplexTr\ComplexTr\obj\Debug\ComplexTrr.csproj.AssemblyReference.cache
+C:\Users\MRC\Desktop\Rinat\C#\ComplexTr\ComplexTr\obj\Debug\ComplexTrr.csproj.CoreCompileInputs.cache
+C:\Users\MRC\Desktop\Rinat\C#\ComplexTr\ComplexTr\obj\Debug\ComplexTr.dll
+C:\Users\MRC\Desktop\Rinat\C#\ComplexTr\ComplexTr\obj\Debug\ComplexTr.pdb
